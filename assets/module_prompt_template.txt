@@ -1,0 +1,181 @@
+你是一名面向亚马逊 A+ 内容的创意总监与视觉陈列专家.
+ 根据我提供的产品平铺图，模特上身图以及产品信息，生成一套高端、干净、现代、具备商业转化能力的亚马逊 A+图 。需要同时满足视觉高级感、卖点表达清晰、消费者理解成本低、适合亚马逊页面展示。
+【画布规格】
+总画布尺寸：1464 × 4200 px
+页面拆分：7 张图 / 7 个模块
+单张模块尺寸：1464 × 600 px
+ 
+
+【风格】
+1. 整体视觉方向
+定位关键词
+Boxy / Retro Streetwear / Neo-Vintage / Clean Editorial / Urban Fashion
+
+核心方向
+以“灰白主视觉 + 黑色实拍服装”形成冷静、克制、带街头感的高级页面。
+整体不做过重品牌海报感，而是偏 Amazon 服装电商长图：清楚展示版型、面料、五金细节、穿搭氛围和Aelfric Eden品牌调性。
+
+建议视觉基调
+
+主色：灰白
+
+辅色：黑、炭灰、银色金属、少量米白
+
+背景：雾面渐变、冷调城市水泥感、干净留白
+
+质感：柔雾光、微冷色阴影、轻工业街头感
+
+风格平衡：70% 电商信息感 + 30% 轻潮流 editorial 感
+
+【产品信息】
+
+品牌：Aelfric Eden
+黑色 boxy T-shirt
+宽松廓形、落肩、街头感强
+肩部/侧片 银色金属扣件
+胸前小字 logo
+面料偏厚实、垂感自然
+与模特图一致：搭配宽松深色牛仔裤、冷感街头穿搭
+目标市场：Amazon US
+
+2. 7 个连续版块长图结构
+Section 1 — Hero
+Headline:
+BOXY STREET. ELEVATED ATTITUDE.
+
+Copy:
+A clean oversized silhouette with retro street energy, designed for standout everyday styling.
+
+画面建议
+
+用你提供的模特主图做第一视觉
+
+背景用灰白渐变 + 大面积留白
+
+左右做错位排版，突出上衣轮廓
+
+页面开场强调品牌名 Aelfric Eden 与整体风格关键词
+
+Section 2 — Silhouette / Fit
+Headline:
+THE PERFECT BOXY SHAPE
+
+Copy:
+Relaxed proportions, dropped shoulders, and a clean structured drape for an effortless streetwear fit.
+
+画面建议
+
+用正面/侧面模特图
+
+叠加线框或简洁箭头标注
+
+强调：
+
+boxy cut
+
+dropped shoulder
+
+relaxed body
+
+easy layering
+
+Section 3 — Retro Street Mood
+Headline:
+RETRO STREET, REFINED
+
+Copy:
+A vintage-inspired silhouette reworked with a sharper, cleaner attitude for modern daily wear.
+
+画面建议
+
+用氛围图或穿搭图
+
+可加入轻微城市感背景、混凝土纹理、冷调光影
+
+不要太“潮牌海报”，而要更像高级电商视觉页
+
+Section 4 — Signature Hardware Detail
+Headline:
+SIGNATURE METAL HARDWARE
+
+Copy:
+Distinctive silver-tone buckle details add structure, identity, and a subtle edge to the clean black base.
+
+画面建议
+
+放大你给的金属扣件细节图
+
+强调肩部与侧边的金属装饰
+
+做局部特写 + 产品局部组合排版
+
+Section 5 — Fabric / Texture
+Headline:
+WEIGHT, TEXTURE, AND DRAPE
+
+Copy:
+Soft yet substantial fabric with a smooth surface and natural drape for a premium everyday feel.
+
+画面建议
+
+用面料近景、袖口、走线、领口细节
+
+突出：
+
+fabric texture
+
+clean stitching
+
+premium hand feel
+
+structured fall
+
+Section 6 — Branding / Finish
+Headline:
+MINIMAL BRANDING, STRONG IDENTITY
+
+Copy:
+Subtle logo placement and clean finishing details keep the look understated, sharp, and instantly recognizable.
+
+画面建议
+
+放领标、胸前 logo 细节
+
+版式要克制，体现品牌高级感
+
+可搭配一张半身模特图增强真实感
+
+Section 7 — Styling / Full Look
+Headline:
+BUILT FOR STATEMENT STYLING
+
+Copy:
+Style it with wide-leg denim, accessories, and layered streetwear essentials for a confident everyday look.
+
+画面建议
+
+结合你发的搭配图思路
+
+展示完整穿搭逻辑：
+
+T-shirt
+
+wide-leg denim
+
+beanie
+
+bag / necklace / shoes
+
+最后一屏做收尾，适合转入购买心智
+
+
+统一 Negative Prompt：
+low quality, blurry, pixelated, overexposed, harsh shadows, messy background, cheap fashion look, tacky styling, excessive accessories, unrealistic fabric, plastic texture, wrong garment construction, distorted body, extra fingers, missing fingers, unnatural hands, deformed face, bad anatomy, incorrect proportions, duplicated model, floating clothing, wrinkled dirty fabric, visible brand logos, competitor logos, random text, watermark, spelling errors, cluttered layout, exaggerated pose, overly sexy pose, cartoon style, illustration style, CGI look, fake mannequin look
+
+【设计执行要求】
+每张图保持统一色调
+服装是主角，背景只做氛围辅助。
+模特动作自然，避免夸张摆拍。
+每张图最多表达 1 个核心主题，不要堆太多信息。
+重点信息放在画面中心 70% 安全区域。
+排版建议使用简洁无衬线字体，标题大、正文少、留白充足

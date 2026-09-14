@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon A+ Strict Model Placeholder V4.7.2"
+  short_description: "Detail-layout geometry and root-model-safe A+ workflow"
+  default_prompt: "Use $amazon-aplus-strict-model-placeholder-v4-7-2 to semantically analyze eligible images, exclude SKU-root model/person images, derive dynamic module reference contracts, manually author distinctive Layout task and Layout execution directions with straight-edged geometry for product-detail sections, validate them, and generate synchronously."

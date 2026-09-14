@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.bak*
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+*_work/
+*_backups/
+*.log

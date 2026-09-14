@@ -1,0 +1,35 @@
+Use case: photorealistic-natural. Asset type: Instagram influencer-style streetwear selfie / candid smartphone social post.
+
+Input images:
+- IMAGE 1 is the only product reference and controls the garment.
+- IMAGE 2 is the background, lighting, location, and casual composition reference only.
+
+Strict gender rule:
+- Derive target_gender from the selected supplied model identity's visible gender presentation whenever a usable model image exists. Spreadsheet target_customer is advisory only and must not override that model-derived value.
+- If target_gender is women, generate an adult woman or female-presenting influencer only.
+- If target_gender is men, generate an adult man or male-presenting influencer only.
+- If target_gender is unisex, choose intentionally and keep the styling consistent with the product.
+- If the attribute table disagrees with the selected model image, preserve the model-derived gender and do not swap the person to match the table.
+
+Model/person rule for influencer images:
+- Influencer UGC people may vary by occasion, but they must obey target_gender.
+- Do not copy people from the background image.
+- Keep every person visibly adult.
+
+Product rule:
+- Preserve the product from IMAGE 1 exactly: category, color, fit, silhouette, neckline/waistband/sleeves, print placement, logo placement, trims, hardware, fabric behavior, and proportions.
+- Restyle only non-product items.
+- Do not cover, hide, recolor, crop, or redesign the product.
+
+Composition rule:
+- Vertical 4:5 smartphone-style social photo.
+- Natural handheld selfie or friend-shot perspective.
+- Product fully visible and unobstructed.
+- Background should match IMAGE 2 mood without copying exact people, logos, signage, or framing.
+
+Avoid:
+- Opposite-gender model for gendered products.
+- Wrong garment category.
+- Wrong product color, print, sleeve length, neckline, waistband, or fit.
+- Excessive accessories hiding the product.
+- Studio campaign look, distorted anatomy, extra fingers, duplicated limbs, watermark, captions, QR code, pricing, fake social media branding.
